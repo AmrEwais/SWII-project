@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./medicine.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="medicine2">
+      <div class="rectangle-div62" id="rectangle"></div>
+      <div class="group-div48">
+        <div class="med10">MED</div>
+        <div class="left20">
+          <p class="p11"><span>2</span></p>
+          <p class="left21"><span>left</span></p>
+        </div>
+      </div>
+      <div class="rectangle-div63"></div>
+      <div class="rectangle-div64"></div>
+      <div class="group-div49">
+        <div class="med10">MED</div>
+        <div class="left20">
+          <p class="p11"><span>2</span></p>
+          <p class="left21"><span>left</span></p>
+        </div>
+      </div>
+      <div class="rectangle-div65"></div>
+      <div class="group-div50">
+        <div class="med10">MED</div>
+        <div class="left20">
+          <p class="p11"><span>4</span></p>
+          <p class="left21"><span>left</span></p>
+        </div>
+      </div>
+      <div class="rectangle-div66" id="rectangle4"></div>
+      <div class="group-div51">
+        <div class="med10">MED</div>
+        <div class="left20">
+          <p class="p11"><span>1</span></p>
+          <p class="left21"><span>left</span></p>
+        </div>
+      </div>
+      <div class="group-div52">
+        <div class="med10">MED</div>
+        <div class="left20">
+          <p class="p11"><span>3</span></p>
+          <p class="left21"><span>left</span></p>
+        </div>
+      </div>
+      <!--<img class="group-icon14" alt="" src="public/group-44.svg" />!-->
+      <div class="for-swap8"><div class="for-swap9"></div></div>
+      <div class="group-div53">
+        <div class="rectangle-div67"></div>
+        <div class="medicine3">Medicine</div>
+        <!--<img class="edit-icon2" alt="" src="public/edit2.svg" />!-->
+        <div class="group-div54" id="groupContainer5">
+          <img class="chevron-left-icon6" alt="" src="public/chevronleft.svg" />
+          <div class="back6">Back</div>
+        </div>
+        <div class="status-bar-iphone-13-13-pr8">
+          <div class="indicators8">
+            <img
+              class="elements-signal8"
+              alt=""
+              src="public/elements--signal.svg"
+            /><img
+              class="elements-connection8"
+              alt=""
+              src="public/elements--connection.svg"
+            />
+            <div class="elements-battery8">
+              <div class="border8"></div>
+              <img class="cap-icon8" alt="" src="public/cap.svg" />
+              <div class="capacity8"></div>
+            </div>
+          </div>
+          <img class="mic-cam8" alt="" />
+          <div class="elements-time8"><div class="time8">9:41</div></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./medicine-taken.html";
+        });
+      }
+      
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "./medicine-order.html";
+        });
+      }
+      
+      var groupContainer5 = document.getElementById("groupContainer5");
+      if (groupContainer5) {
+        groupContainer5.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      </script>
+  </body>
+</html>

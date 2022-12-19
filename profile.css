@@ -1,0 +1,258 @@
+body {
+  line-height: normal;
+}
+.ellipse-icon8 {
+  position: absolute;
+  top: 144px;
+  left: 134px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.rectangle-div78 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--border-color);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 330px;
+  height: 200px;
+}
+.gender {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.weight {
+  margin: 0;
+}
+.gender-birth-or-date-blood-typ,
+.male-21-mar-2001-not-set-162-c {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 141.43px;
+  height: 178.57px;
+}
+.male-21-mar-2001-not-set-162-c {
+  top: 3.06px;
+  left: 176.79px;
+  font-size: var(--font-size-xl);
+  color: rgba(33, 33, 33, 0.75);
+  text-align: right;
+  width: 129.64px;
+}
+.group-div58,
+.group-icon16 {
+  position: absolute;
+  top: 12.24px;
+  left: 11.79px;
+  width: 306.43px;
+  height: 181.63px;
+}
+.group-icon16 {
+  top: 43px;
+  left: 12px;
+  height: 112px;
+}
+.group-div57,
+.omar-yasser1 {
+  position: absolute;
+  top: 343px;
+  left: 30px;
+  width: 330px;
+  height: 200px;
+}
+.omar-yasser1 {
+  top: 288px;
+  left: 111px;
+  font-size: var(--title-h4-bold-size);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 161px;
+  height: 34px;
+}
+.for-swap13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-red);
+  overflow: hidden;
+}
+.for-swap12,
+.rectangle-div79 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 30px;
+  height: 844px;
+}
+.rectangle-div79 {
+  top: 0;
+  background-color: var(--white-color1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 110px;
+}
+.chevron-left-icon8,
+.edit-icon3 {
+  position: absolute;
+  overflow: hidden;
+}
+.edit-icon3 {
+  top: 63px;
+  left: 338px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.chevron-left-icon8 {
+  top: 0;
+  left: 0;
+  width: 29.25px;
+  height: 28.36px;
+}
+.back8 {
+  position: absolute;
+  top: 3px;
+  left: 28.91px;
+  font-weight: 600;
+  display: inline-block;
+  width: 44px;
+  height: 18px;
+}
+.group-div60 {
+  position: absolute;
+  top: 66px;
+  left: 6.09px;
+  width: 72.91px;
+  height: 28.36px;
+  cursor: pointer;
+}
+.elements-connection10,
+.elements-signal10 {
+  position: relative;
+  width: 19.97px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.elements-connection10 {
+  width: 17px;
+  height: 12.5px;
+}
+.border10,
+.cap-icon10 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border10 {
+  height: 100%;
+  width: 91.47%;
+  top: 0;
+  right: 8.53%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.4;
+}
+.cap-icon10 {
+  height: 30.77%;
+  width: 4.87%;
+  top: 34.62%;
+  right: 0;
+  bottom: 34.62%;
+  left: 95.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.capacity10 {
+  position: absolute;
+  height: 69.23%;
+  width: 62.2%;
+  top: 15.38%;
+  right: 30.48%;
+  bottom: 15.38%;
+  left: 7.32%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+}
+.elements-battery10 {
+  position: relative;
+  width: 27.33px;
+  height: 13px;
+  flex-shrink: 0;
+}
+.indicators10 {
+  position: absolute;
+  top: 19px;
+  right: 26.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.mic-cam10 {
+  position: absolute;
+  top: 6px;
+  left: 282px;
+  width: 6px;
+  height: 6px;
+}
+.time10 {
+  position: relative;
+  letter-spacing: -0.5px;
+  line-height: 17px;
+  font-weight: 600;
+  display: inline-block;
+}
+.elements-time10 {
+  position: absolute;
+  top: calc(50% - 6.94px);
+  left: calc(50% - 148.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.status-bar-iphone-13-13-pr10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 47.87px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-text);
+}
+.group-div59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 110px;
+  color: var(--text);
+}
+.profile {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./profile.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="profile">
+      <img class="ellipse-icon8" alt="" src="public/ellipse-11@2x.png" />
+      <div class="group-div57">
+        <div class="rectangle-div78"></div>
+        <div class="group-div58">
+          <div class="gender-birth-or-date-blood-typ">
+            <p class="gender">Gender</p>
+            <p class="gender">Birth or Date</p>
+            <p class="gender">Blood Type</p>
+            <p class="gender">Height</p>
+            <p class="weight">Weight</p>
+          </div>
+          <div class="male-21-mar-2001-not-set-162-c">
+            <p class="gender">Male</p>
+            <p class="gender">21 Mar 2001</p>
+            <p class="gender">Not Set</p>
+            <p class="gender">162 CM</p>
+            <p class="weight">88 KG</p>
+          </div>
+        </div>
+        <img class="group-icon16" alt="" src="public/group-33.svg" />
+      </div>
+      <div class="omar-yasser1">Omar Yasser</div>
+      <div class="for-swap12"><div class="for-swap13"></div></div>
+      <div class="group-div59">
+        <div class="rectangle-div79"></div>
+        <img class="edit-icon3" alt="" src="public/edit3.svg" id="editIcon" />
+        <div class="group-div60" id="groupContainer2">
+          <img class="chevron-left-icon8" alt="" src="public/chevronleft.svg" />
+          <div class="back8">Back</div>
+        </div>
+        <div class="status-bar-iphone-13-13-pr10">
+          <div class="indicators10">
+            <img
+              class="elements-signal10"
+              alt=""
+              src="public/elements--signal.svg"
+            /><img
+              class="elements-connection10"
+              alt=""
+              src="public/elements--connection.svg"
+            />
+            <div class="elements-battery10">
+              <div class="border10"></div>
+              <img class="cap-icon10" alt="" src="public/cap.svg" />
+              <div class="capacity10"></div>
+            </div>
+          </div>
+          <img class="mic-cam10" alt="" />
+          <div class="elements-time10"><div class="time10">9:41</div></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var editIcon = document.getElementById("editIcon");
+      if (editIcon) {
+        editIcon.addEventListener("click", function (e) {
+          window.location.href = "./profile-edit.html";
+        });
+      }
+      
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      </script>
+  </body>
+</html>

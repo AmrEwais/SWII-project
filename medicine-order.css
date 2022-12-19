@@ -1,0 +1,370 @@
+body {
+  line-height: normal;
+}
+.med5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 82.59px;
+  height: 44.38px;
+}
+.p6 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.left11 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.left10 {
+  position: absolute;
+  top: 35.75px;
+  left: 25.89px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 29.58px;
+  height: 62.86px;
+}
+.group-div38,
+.rectangle-div54 {
+  position: absolute;
+  top: 323px;
+  left: 251px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.rectangle-div54 {
+  top: 0;
+  left: 0;
+  background-color: var(--white-color1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 110px;
+}
+.medicine1 {
+  position: absolute;
+  top: 66px;
+  left: 130px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+  height: 28px;
+}
+.chevron-left-icon5,
+.edit-icon1 {
+  position: absolute;
+  top: 67px;
+  left: 349px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.chevron-left-icon5 {
+  top: 0;
+  left: 0;
+  width: 29.25px;
+  height: 28.36px;
+}
+.back5 {
+  position: absolute;
+  top: 3px;
+  left: 28.91px;
+  font-weight: 600;
+  display: inline-block;
+  width: 44px;
+  height: 18px;
+}
+.group-div40 {
+  position: absolute;
+  top: 66px;
+  left: 6.09px;
+  width: 72.91px;
+  height: 28.36px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+}
+.group-div39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 110px;
+  font-size: var(--font-size-4xl);
+  color: var(--text);
+}
+.rectangle-div55,
+.rectangle-div56 {
+  position: absolute;
+  top: 120px;
+  left: 16px;
+  border-radius: var(--br-xl);
+  background-color: var(--main);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+}
+.rectangle-div56 {
+  left: 213px;
+}
+.group-div41,
+.rectangle-div57 {
+  position: absolute;
+  top: 150px;
+  left: 251px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.rectangle-div57 {
+  top: 294px;
+  left: 16px;
+  border-radius: var(--br-xl);
+  background-color: var(--main);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+}
+.group-div42,
+.rectangle-div58 {
+  position: absolute;
+  top: 323.39px;
+  left: 54.21px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.rectangle-div58 {
+  top: 465px;
+  left: 16px;
+  border-radius: var(--br-xl);
+  background-color: var(--abf58);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+}
+.group-div43,
+.group-div44,
+.group-icon13 {
+  position: absolute;
+  top: 494.72px;
+  left: 54.21px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.group-div44,
+.group-icon13 {
+  top: 149.58px;
+}
+.group-icon13 {
+  top: 757px;
+  left: 306px;
+  width: 60px;
+  height: 60px;
+}
+.elements-connection7,
+.elements-signal7 {
+  position: relative;
+  width: 19.97px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.elements-connection7 {
+  width: 17px;
+  height: 12.5px;
+}
+.border7,
+.cap-icon7 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border7 {
+  height: 100%;
+  width: 91.47%;
+  top: 0;
+  right: 8.53%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.4;
+}
+.cap-icon7 {
+  height: 30.77%;
+  width: 4.87%;
+  top: 34.62%;
+  right: 0;
+  bottom: 34.62%;
+  left: 95.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.capacity7 {
+  position: absolute;
+  height: 69.23%;
+  width: 62.2%;
+  top: 15.38%;
+  right: 30.48%;
+  bottom: 15.38%;
+  left: 7.32%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+}
+.elements-battery7 {
+  position: relative;
+  width: 27.33px;
+  height: 13px;
+  flex-shrink: 0;
+}
+.indicators7 {
+  position: absolute;
+  top: 19px;
+  right: 26.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.mic-cam7 {
+  position: absolute;
+  top: 6px;
+  left: 282px;
+  width: 6px;
+  height: 6px;
+}
+.time7 {
+  position: relative;
+  letter-spacing: -0.5px;
+  line-height: 17px;
+  font-weight: 600;
+  display: inline-block;
+}
+.elements-time7 {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 148.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.status-bar-iphone-13-13-pr7 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 390px;
+  height: 47px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-text);
+}
+.rectangle-div59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(217, 217, 217, 0.1);
+  backdrop-filter: blur(12px);
+  width: 390px;
+  height: 844px;
+  cursor: pointer;
+}
+.rectangle-div60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--white-color1);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 276.66px;
+  height: 240.09px;
+}
+.dramr-recommended-medicine {
+  position: absolute;
+  top: 34.13px;
+  left: 7.31px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 262.03px;
+  height: 53.63px;
+}
+.rectangle-div61 {
+  position: absolute;
+  top: 0;
+  left: 21.94px;
+  border-radius: var(--br-sm);
+  background-color: var(--main);
+  width: 99.94px;
+  height: 51.19px;
+}
+.group-div47,
+.order {
+  position: absolute;
+  width: 142.59px;
+}
+.order {
+  top: 10.97px;
+  left: 0;
+  display: inline-block;
+  height: 29.25px;
+}
+.group-div47 {
+  top: 157.22px;
+  left: 67.03px;
+  height: 51.19px;
+  color: var(--white-color1);
+}
+.medicine-info1 {
+  position: absolute;
+  top: 3px;
+  left: 22px;
+  display: inline-block;
+  width: 154px;
+  height: 24px;
+}
+.alert-circle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 29.25px;
+  height: 29.25px;
+  overflow: hidden;
+}
+.medicine-info {
+  position: absolute;
+  top: 105px;
+  left: 55px;
+  width: 176px;
+  height: 29.25px;
+  color: var(--main);
+  font-family: var(--link-medium);
+}
+.group-div45,
+.group-div46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 276.66px;
+  height: 240.09px;
+}
+.group-div45 {
+  top: 294px;
+  left: 57px;
+  font-size: var(--title-h4-bold-size);
+  color: var(--text);
+}
+.medicine-order {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--white-color1);
+  font-family: var(--font-inter);
+}

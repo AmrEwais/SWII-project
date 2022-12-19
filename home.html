@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./home.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home">
+      <div class="hello-omar">
+        <span class="hello">Hello,</span><span class="omar"> Omar</span>
+      </div>
+      <!-- <img class="group-icon21" alt="" src="public/group-141.svg" />!-->
+      <div class="group-div77">
+        <div class="rectangle-div114" id="rectangle"></div>
+        <div class="rectangle-div115"></div>
+        <div class="heart4">Heart</div>
+        <div class="group-div78" id="groupContainer">
+          <div class="rectangle-div115"></div>
+          <img class="med-1-icon" alt="" src="public/med-1@2x.png" />
+          <div class="medicine4">Medicine</div>
+        </div>
+        <div class="group-div79" id="groupContainer1">
+          <div class="rectangle-div115"></div>
+          <div class="apointments">Apointments</div>
+          <img
+            class="d30f7f5601038fa55a970832f1198c-icon"
+            alt=""
+            src="public/d30f7f5601038fa55a970832f1198c09removebgpreview-1@2x.png"
+          />
+        </div>
+        <div class="group-div80" id="groupContainer2">
+          <div class="rectangle-div115"></div>
+          <img
+            class="d1cd740e6e3bf47d35467b078d5f5b-icon"
+            alt=""
+            src="public/2d1cd740e6e3bf47d35467b078d5f5b1removebgpreview-1@2x.png"
+          />
+          <div class="sleep2">Sleep</div>
+        </div>
+        <img
+          class="screenshot-2022-11-05-005225-r-icon"
+          alt=""
+          src="public/screenshot-20221105-005225removebgpreview-1@2x.png"
+        />
+      </div>
+      <div class="group-div81">
+        <div class="rectangle-div118"></div>
+        <img class="symbols-icon" alt="" src="public/symbols.svg" /><img/>
+        <div class="rectangle-div119"></div>
+        <div class="steps">
+          <span><span>6,302</span><span class="span2"> </span></span
+          ><span class="steps1">steps</span>
+        </div>
+        <div class="youve-walked">You’ve walked</div>
+      </div>
+      <img
+        class="ellipse-icon10"
+        alt=""
+        src="public/ellipse-110@2x.png"
+        id="ellipseIcon"
+      />
+      <div class="search">
+        <div class="rectangle-div120"></div>
+        <div class="search1">Search</div>
+        <img class="search-icon" alt="" src="public/search.svg" />
+      </div>
+      <div class="frame-div1"></div>
+      <div class="track-your">Track your</div>
+      <img class="bell-icon" alt="" src="public/bell.svg" /><img
+        class="ellipse-icon11"
+        alt=""
+        src="public/ellipse-4.svg"
+      />
+      <div class="status-bar-iphone-13-13-pr13">
+        <div class="indicators13">
+          <img
+            class="elements-signal13"
+            alt=""
+            src="public/elements--signal.svg"
+          /><img
+            class="elements-connection13"
+            alt=""
+            src="public/elements--connection.svg"
+          />
+          <div class="elements-battery13">
+            <div class="border13"></div>
+            <img class="cap-icon13" alt="" src="public/cap.svg" />
+            <div class="capacity13"></div>
+          </div>
+        </div>
+        <img class="mic-cam13" alt="" />
+        <div class="elements-time13"><div class="time13">9:41</div></div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./heart.html";
+        });
+      }
+      
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./medicine.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./appointments.html";
+        });
+      }
+      
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if (groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "./sleep.html";
+        });
+      }
+      
+      var ellipseIcon = document.getElementById("ellipseIcon");
+      if (ellipseIcon) {
+        ellipseIcon.addEventListener("click", function (e) {
+          window.location.href = "./profile.html";
+        });
+      }
+      </script>
+  </body>
+</html>

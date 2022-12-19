@@ -1,0 +1,340 @@
+body {
+  line-height: normal;
+}
+.rectangle-div47 {
+  position: absolute;
+  top: 120px;
+  left: 215px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1500);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+}
+.group-icon12 {
+  position: absolute;
+  top: 757px;
+  left: 306px;
+  width: 60px;
+  height: 60px;
+}
+.rectangle-div48,
+.rectangle-div49 {
+  position: absolute;
+  top: 120px;
+  left: 17px;
+  border-radius: var(--br-xl);
+  background-color: var(--main);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+  opacity: 0.85;
+}
+.rectangle-div49 {
+  top: 294px;
+}
+.med {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 82.59px;
+  height: 44.38px;
+}
+.p1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.left1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.left {
+  position: absolute;
+  top: 35.75px;
+  left: 25.89px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 29.58px;
+  height: 62.86px;
+}
+.group-div31,
+.rectangle-div50 {
+  position: absolute;
+  top: 323.39px;
+  left: 53.21px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.rectangle-div50 {
+  top: 465px;
+  left: 17px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-green-200);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+  cursor: pointer;
+}
+.group-div32,
+.group-div33,
+.rectangle-div51 {
+  position: absolute;
+  top: 494.72px;
+  left: 53.21px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.group-div33,
+.rectangle-div51 {
+  top: 149.58px;
+}
+.rectangle-div51 {
+  top: 294px;
+  left: 212px;
+  border-radius: var(--br-xl);
+  background-color: var(--main);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  width: 158px;
+  height: 158px;
+}
+.left6 {
+  position: absolute;
+  top: 35.75px;
+  left: 25.89px;
+  display: inline-block;
+  width: 29.58px;
+  height: 62.86px;
+}
+.group-div34 {
+  position: absolute;
+  top: 323.92px;
+  left: 250.43px;
+  width: 82.59px;
+  height: 98.61px;
+  color: var(--color-gray-300);
+}
+.rectangle-div52 {
+  position: absolute;
+  top: 294px;
+  left: 214px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1600);
+  width: 158px;
+  height: 158px;
+}
+.clock-icon {
+  position: absolute;
+  top: 300px;
+  left: 234px;
+  width: 118px;
+  height: 118px;
+  overflow: hidden;
+}
+.pm4 {
+  position: absolute;
+  top: 416px;
+  left: 259px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.5px;
+  line-height: 17px;
+  display: inline-block;
+}
+.for-swap6,
+.for-swap7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.for-swap7 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-red);
+  overflow: hidden;
+}
+.for-swap6 {
+  width: 30px;
+  height: 844px;
+}
+.group-div35,
+.rectangle-div53 {
+  position: absolute;
+  top: 150px;
+  left: 251px;
+  width: 82.59px;
+  height: 98.61px;
+}
+.rectangle-div53 {
+  top: 0;
+  left: 0;
+  background-color: var(--white-color1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 110px;
+}
+.medicine {
+  position: absolute;
+  top: 66px;
+  left: 130px;
+  font-weight: 600;
+  display: inline-block;
+  width: 131px;
+  height: 28px;
+}
+.chevron-left-icon4,
+.edit-icon {
+  position: absolute;
+  top: 67px;
+  left: 349px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.chevron-left-icon4 {
+  top: 0;
+  left: 0;
+  width: 29.25px;
+  height: 28.36px;
+}
+.back4 {
+  position: absolute;
+  top: 3px;
+  left: 28.91px;
+  font-weight: 600;
+  display: inline-block;
+  width: 44px;
+  height: 18px;
+}
+.group-div37 {
+  position: absolute;
+  top: 66px;
+  left: 6.09px;
+  width: 72.91px;
+  height: 28.36px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+}
+.elements-connection6,
+.elements-signal6 {
+  position: relative;
+  width: 19.97px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.elements-connection6 {
+  width: 17px;
+  height: 12.5px;
+}
+.border6,
+.cap-icon6 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border6 {
+  height: 100%;
+  width: 91.47%;
+  top: 0;
+  right: 8.53%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.4;
+}
+.cap-icon6 {
+  height: 30.77%;
+  width: 4.87%;
+  top: 34.62%;
+  right: 0;
+  bottom: 34.62%;
+  left: 95.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.capacity6 {
+  position: absolute;
+  height: 69.23%;
+  width: 62.2%;
+  top: 15.38%;
+  right: 30.48%;
+  bottom: 15.38%;
+  left: 7.32%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+}
+.elements-battery6 {
+  position: relative;
+  width: 27.33px;
+  height: 13px;
+  flex-shrink: 0;
+}
+.indicators6 {
+  position: absolute;
+  top: 19px;
+  right: 26.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.mic-cam6 {
+  position: absolute;
+  top: 6px;
+  left: 282px;
+  width: 6px;
+  height: 6px;
+}
+.time6 {
+  position: relative;
+  letter-spacing: -0.5px;
+  line-height: 17px;
+  font-weight: 600;
+  display: inline-block;
+}
+.elements-time6 {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: calc(50% - 148.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.status-bar-iphone-13-13-pr6 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 390px;
+  height: 47px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-text);
+}
+.group-div36 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 391px;
+  height: 110px;
+  font-size: var(--font-size-4xl);
+  color: var(--text);
+}
+.medicine-taken {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--white-color1);
+  font-family: var(--font-inter);
+}

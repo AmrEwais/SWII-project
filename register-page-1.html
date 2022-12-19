@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./register-page-1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="register-page-1">
+      <div class="status-bar-iphone-13-13-pr">
+        <div class="indicators">
+          <img
+            class="elements-signal"
+            alt=""
+            src="public/elements--signal.svg"
+          /><img
+            class="elements-connection"
+            alt=""
+            src="public/elements--connection.svg"
+          />
+          <div class="elements-battery">
+            <div class="border"></div>
+            <img class="cap-icon" alt="" src="public/cap.svg" />
+            <div class="capacity"></div>
+          </div>
+        </div>
+        <img class="mic-cam" alt="" />
+        <div class="elements-time"><div class="time">9:41</div></div>
+      </div>
+      <div class="or">
+        <div class="or1">Or</div>
+        <img class="vector-icon" alt="" src="public/vector-67.svg" /><img
+          class="vector-icon1"
+          alt=""
+          src="public/vector-68.svg"
+        />
+      </div>
+      <div class="register-text" id="registerTextContainer">
+        <div class="dont-have-an-account-yet-log">
+          <span>Don’t have an account yet? </span
+          ><span class="login">Login</span>
+        </div>
+      </div>
+      <div class="login-social-media">
+        <div class="group-div">
+          <div class="rectangle-div"></div>
+          <img
+            class="google-logo-png-suite-everythi-icon"
+            alt=""
+            src="public/googlelogopngsuiteeverythingyouneedknowaboutgooglenewest0-2@2x.png"
+          />
+        </div>
+        <div class="group-div1">
+          <div class="rectangle-div"></div>
+          <img class="facebook-1-icon" alt="" src="public/facebook-1.svg" />
+        </div>
+      </div>
+      <div class="button-login" id="buttonLogin">
+        <div class="rectangle-div2"></div>
+        <div class="group-div2"><b class="register">Register</b></div>
+      </div>
+      <div class="title-section">
+        <div class="hey-there">Hey there,</div>
+        <b class="create-an-account">Create an Account</b>
+      </div>
+      <div class="label-section">
+        <div class="privacy-policy">
+          <div class="rectangle-div3"></div>
+          <div class="by-continuing-you-accept-our-p">
+            By continuing you accept our
+            <span class="term-of-use">Privacy Policy</span> and
+            <span class="term-of-use">Term of Use</span>
+          </div>
+        </div>
+        <div class="label">
+          <div class="label-bg"><div class="rectangle-div4"></div></div>
+          <div class="placeholder">
+            <img
+              class="iconlylight-outlineprofile"
+              alt=""
+              src="public/iconlylightoutlineprofile.svg"
+            />
+            <div class="full-name">Full Name</div>
+          </div>
+        </div>
+        <div class="label1">
+          <div class="label-bg"><div class="rectangle-div4"></div></div>
+          <div class="placeholder1">
+            <img
+              class="iconlylightmessage"
+              alt=""
+              src="public/iconlylightmessage.svg"
+            />
+            <div class="email">Email</div>
+          </div>
+        </div>
+        <div class="label2">
+          <div class="label-bg"><div class="rectangle-div4"></div></div>
+          <div class="placeholder2">
+            <img
+              class="iconlylight-outlineprofile1"
+              alt=""
+              src="public/iconlylightoutlineprofile1.svg"
+            />
+            <div class="phone-number">Phone Number</div>
+          </div>
+        </div>
+        <div class="label3">
+          <div class="label-bg"><div class="rectangle-div4"></div></div>
+          <img
+            class="hide-password-icon"
+            alt=""
+            src="public/hidepassword.svg"
+          />
+          <div class="placeholder3">
+            <img
+              class="iconlylightmessage"
+              alt=""
+              src="public/iconlylightlock.svg"
+            />
+            <div class="password">Password</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var registerTextContainer = document.getElementById("registerTextContainer");
+      if (registerTextContainer) {
+        registerTextContainer.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var buttonLogin = document.getElementById("buttonLogin");
+      if (buttonLogin) {
+        buttonLogin.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      </script>
+  </body>
+</html>

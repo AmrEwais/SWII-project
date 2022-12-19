@@ -1,0 +1,73 @@
+:root {
+  /* fonts */
+  --link-medium: Poppins;
+  --font-inter: Inter;
+  --font-sf-pro-text: "SF Pro Text";
+  --font-montserrat: Montserrat;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-2xs: 10px;
+  --link-medium-size: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 15px;
+  --text-large-text-regular-size: 16px;
+  --font-size-xl: 17px;
+  --font-size-2xl: 18px;
+  --title-h4-bold-size: 20px;
+  --font-size-4xl: 24px;
+  --font-size-5xl: 30px;
+
+  /* Colors */
+  --border-color: #f7f8f8;
+  --color-gray-200: #efefef;
+  --color-gray-300: #eee;
+  --gray-3: #dddada;
+  --color-gray-500: #d9d9d9;
+  --chat2: #d4d4d4;
+  --gray-2: #ada4a5;
+  --color-gray-800: #949494;
+  --color-gray-900: #8189b0;
+  --main: #478fe6;
+  --gray-1: #7b6f72;
+  --text: #212121;
+  --color-gray-1300: #091b35;
+  --black-color: #1d1617;
+  --color-gray-1500: rgba(71, 143, 230, 0.85);
+  --color-gray-1600: rgba(0, 0, 0, 0.5);
+  --color-gray-1700: rgba(0, 0, 0, 0.2);
+  --color-gray-1800: rgba(71, 143, 230, 0.5);
+  --color-gray-1900: rgba(71, 143, 230, 0.8);
+  --white-color1: #fff;
+  --color-cyan-100: #0fc7ff;
+  --color-black: #000;
+  --color-red: rgba(255, 0, 0, 0);
+  --danger: #f14d42;
+  --abf58: #5abf58;
+  --color-green-200: rgba(90, 191, 88, 0.9);
+  --color-green-300: rgba(90, 191, 88, 0);
+
+  /* Gaps */
+  --gap-md: 7px;
+
+  /* Paddings */
+  --padding-md: 20px;
+
+  /* border radiuses */
+  --br-3xs: 2px;
+  --br-2xs: 4px;
+  --br-xs: 6px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 14px;
+  --br-xl: 15px;
+  --br-2xl: 20px;
+  --br-3xl: 50px;
+}
+
+body {
+  margin: auto;
+  line-height: normal;
+  width: 390px;
+  height: 844px;
+}
