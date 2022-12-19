@@ -1,6 +1,6 @@
 
   # SWII
-Software Engineering 2 mini projects for college
+Software Engineering II mini project for college
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">node js</a></code>
 
